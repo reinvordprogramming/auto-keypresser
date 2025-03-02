@@ -14,6 +14,13 @@ Auto Key Presser is made using python, starting from a game that doesn't want to
 2. Simple and legal action!
 3. Say no to AFK!
 
+## ☢️  Check Malware
+
+- 100% no virus ⚡
+
+<a href="https://www.virustotal.com/gui/home/upload" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/VirusTotal_logo.svg/2560px-VirusTotal_logo.svg.png" alt="Virus Total Scan" width="180" ></a>
+
+
 ## 🦋 Supporting Auto Keypresser
 
 Consider making a donation to the Auto Keypresser project if you or your business have benefited from it. This will accelerate Auto Keypresser's development! Making coffee is simple; I'll be happy to enjoy one.
